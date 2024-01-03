@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shivam367-glitch
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Android
 
 
 - 📫 How to reach me txt2shivam@gmail.com
