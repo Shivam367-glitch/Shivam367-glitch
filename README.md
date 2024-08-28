@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivam367-glitch
-- 👀 I’m interested in coding
+- 👀 I’m like Coding
 
 
 - 📫 How to reach me txt2shivam@gmail.com
