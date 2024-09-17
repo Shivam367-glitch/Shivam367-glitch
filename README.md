@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Shivam367-glitch
-- 👀 I’m like Coding
+driven by a passion for sharing knowledge and learning.
 
 
-- 📫 How to reach me txt2shivam@gmail.com
+Technologies:
 
-<!---
-Shivam367-glitch/Shivam367-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Javascript, React, PWA,Firebase,Bootstrap
+Node,Core Java 
+
+Cheers,
+Shivam Mishra
+smishraportfolio.netlify.app
