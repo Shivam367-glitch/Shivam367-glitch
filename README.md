@@ -8,7 +8,7 @@ Technologies I Work With:
 Languages: JavaScript, Core Java
 Frameworks: React, Bootstrap
 Tools: Firebase, PWA, Node.js
-I love building with modern tools and am always exploring new technologies to enhance my projects!
+I enjoy building with modern tools and continuously explore new technologies to enhance my work and skills.
 
 Feel free to check out my portfolio:
 
