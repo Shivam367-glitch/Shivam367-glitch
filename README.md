@@ -81,7 +81,7 @@ My expertise lies in web development, creating scalable applications, and delive
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 📊 GitHub Stats
 
@@ -93,4 +93,4 @@ My expertise lies in web development, creating scalable applications, and delive
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam367-glitch&theme=default)](https://git.io/streak-stats)
 
 
-</div>
+</div> -->
